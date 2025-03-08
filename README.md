@@ -11,13 +11,14 @@ El ejercicio incluye los siguientes archivos:
 * **clean_data.csv:** Dataset final después de la limpieza y transformación.
 * **README.md:** Este archivo con la documentación del proyecto.
 * **.gitignore:** Archivo para evitar que ciertos archivos sean subidos al repositorio.
+* **requirements.txt:** Lista de dependencias necesarias para ejecutar el proyecto.
 
 ## Instalación:
 
-Para ejecutar este proyecto, se requieren las siguientes dependencias:
+Para instalar las dependencias, usa el siguiente comando:
 
 ```
-pip install jupyter pandas
+pip install -r requirements.txt
 ```
 
 ## Conclusión
